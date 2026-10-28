@@ -1,0 +1,13 @@
+# AquaFunded - PropFirmDiscount.com
+
+Historical deal observations and discount codes for AquaFunded prop firm.
+
+## Discount Code
+
+Use code **PFD** for 25% on AquaFunded challenges and accounts.
+This exclusive discount code is verified by PropFirmDiscount.com and works any time.
+
+## Data
+
+- Observations API: observations.json
+- Firm profile: https://propfirmdiscount.com/prop-firm/aquafunded/

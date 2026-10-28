@@ -1,0 +1,8 @@
+# AquaFunded Discount Codes
+
+This dataset tracks historical deal observations for AquaFunded from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (25%)
+Works any time on all AquaFunded challenges and accounts.
+
+Firm page: https://propfirmdiscount.com/prop-firm/aquafunded/
