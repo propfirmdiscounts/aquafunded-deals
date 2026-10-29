@@ -27,11 +27,11 @@ Use discount code **PFD** to get **25% off** on AquaFunded challenges and accoun
 
 ## Discount Code History
 
-Total deals tracked: **64**
+Deal History: **64**
 
 ### 2026 (30 deals)
 
-| Date Published | Title | Discount | Expires | Deal Link |
+| Deal Date | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
 | 2026-10-25 | 35% off all account sizes across CFD and Futures | 35% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) |
 | 2026-10-21 | 25% Off Evaluations for Halloween, 200% Refund | 25% off | 2026-11-05 | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/) |
@@ -66,7 +66,7 @@ Total deals tracked: **64**
 
 ### 2025 (21 deals)
 
-| Date Published | Title | Discount | Expires | Deal Link |
+| Deal Date | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
 | 2025-12-15 | Christmas Sale: 50% Off Instant Accounts and 40% Off All Models | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-christmas-sale-50-off-instant-accounts/) |
 | 2025-12-11 | 2nd Anniversary Sale: 50% Off Instants + 40% Off Challenges + BOGO | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-2nd-anniversary-sale-50-off-bogo/) |
@@ -92,7 +92,7 @@ Total deals tracked: **64**
 
 ### 2024 (11 deals)
 
-| Date Published | Title | Discount | Expires | Deal Link |
+| Deal Date | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
 | 2024-12-31 | New Year Offer: 37.5% OFF + 120% Refund | 37% off | Ended | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-new-year-offer-37-5-off-refund/) |
 | 2024-11-04 | Limited Time Offer: 20% OFF All Accounts | 20% off | Ended | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-20-off-limited-time/) |
@@ -108,7 +108,7 @@ Total deals tracked: **64**
 
 ### 2023 (2 deals)
 
-| Date Published | Title | Discount | Expires | Deal Link |
+| Deal Date | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
 | 2023-12-21 | Christmas Sale: 20% OFF + 125% Refund Deal | 20% off | Ended | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-christmas-sale-20-off-refund/) |
 | 2023-11-28 | Pre-Launch Deal: 40% OFF + $10k Account Giveaway | 40% off | Ended | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-pre-launch-40-off-giveaway/) |
@@ -125,7 +125,7 @@ This repository tracks all historical deals for **AquaFunded** published on Prop
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T07:37:06Z (auto, hourly)
+Last synced: 2026-10-29T07:46:34Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
