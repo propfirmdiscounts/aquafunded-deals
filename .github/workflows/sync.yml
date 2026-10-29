@@ -44,6 +44,12 @@ jobs:
           python3 - <<'PY'
           import json, os
 
+          def add_off(v):
+              v = v.strip()
+              if '%' in v and 'off' not in v.lower():
+                  return v + ' off'
+              return v
+
           # Load observations
           obs = json.load(open('observations.json'))
           firm = obs['dealstore']
@@ -51,7 +57,7 @@ jobs:
 
           is_global = os.environ['IS_GLOBAL'] == 'true'
           code = os.environ['STANDING_CODE']
-          discount = os.environ['DISCOUNT']
+          discount = add_off(os.environ['DISCOUNT'])
           month_year = os.environ['MONTH_YEAR']
 
           # Group by year
@@ -82,7 +88,7 @@ jobs:
   
           **Published:** {latest['date_published']}  
           **Offer ends:** {latest.get('date_exp') or 'N/A'}  
-          **Discount:** {latest['discount_value']}  
+          **Discount:** {add_off(latest['discount_value'])}  
           """
 
           if latest.get('scope'):
@@ -114,7 +120,7 @@ jobs:
               for deal in deals:
                   title = deal['title'].replace('|', '\\|')
                   expires = deal.get('date_exp') or 'N/A'
-                  readme += f"| {deal['date_published']} | {title} | {deal['discount_value']} | {expires} | [View Deal]({deal['post_url']}) |\n"
+                  readme += f"| {deal['date_published']} | {title} | {add_off(deal['discount_value'])} | {expires} | [View Deal]({deal['post_url']}) |\n"
 
               readme += "\n"
 
