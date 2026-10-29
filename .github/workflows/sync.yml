@@ -70,7 +70,7 @@ jobs:
           years = sorted(by_year.keys(), reverse=True)
 
           # Build README
-          readme = f"""# {firm['name']} - Discount Code History
+          readme = f"""# {firm['name']} - Discount Codes & Deal History
 
           Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
 
@@ -104,7 +104,7 @@ jobs:
 
           ---
 
-          ## Discount Code History
+          ## Discount Codes & Deal History
 
           Deal History: **{len(obs['observations'])}**
 
