@@ -1,5 +1,10 @@
 ---
 license: other
+configs:
+- config_name: aquafunded-deals
+  data_files:
+  - split: data
+    path: datasets/aquafunded-deals.json
 tags:
   - discount-codes
   - prop-firm
@@ -134,7 +139,7 @@ This repository tracks all historical deals for **AquaFunded** published on Prop
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T09:04:20Z (auto, hourly)
+Last synced: 2026-10-29T11:56:54Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
