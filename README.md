@@ -1,4 +1,4 @@
-# AquaFunded - Deal History
+# AquaFunded - Discount Code History
 
 Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
 
@@ -25,7 +25,7 @@ Use discount code **PFD** to get **25% off** on AquaFunded challenges and accoun
 
 ---
 
-## Deal History
+## Discount Code History
 
 Total deals tracked: **64**
 
@@ -122,6 +122,13 @@ This repository tracks all historical deals for **AquaFunded** published on Prop
 **Data source:** PropFirmDiscount.com  
 **Prop firm profile:** https://propfirmdiscount.com/prop-firm/aquafunded/  
 
----
+## Freshness
 
-Last synced: 2026-10-29T07:27:39Z (auto, hourly)
+<!-- pfd-last-synced (auto-updated each sync) -->
+Last synced: 2026-10-29T07:37:06Z (auto, hourly)
+
+Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
+
+## License
+
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
