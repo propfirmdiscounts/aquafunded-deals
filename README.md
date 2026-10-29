@@ -124,4 +124,4 @@ This repository tracks all historical deals for **AquaFunded** published on Prop
 
 ---
 
-Last synced: 2026-10-29T00:11:37Z (auto, hourly)
+Last synced: 2026-10-29T07:15:54Z (auto, hourly)
