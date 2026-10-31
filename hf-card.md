@@ -1,45 +1,66 @@
 ---
 license: other
+pretty_name: AquaFunded Discount Code
 configs:
 - config_name: aquafunded-deals
   data_files:
   - split: data
     path: datasets/aquafunded-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - aquafunded
 ---
 
-# AquaFunded - Discount Codes & Deal History
+# AquaFunded Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-25, the verified AquaFunded discount code is **PFD** — up to 25% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/aquafunded/
+> At AquaFunded, we’re more than just a prop firm, we’re your partner in creating a successful trading future. Committed to transparency and steadfast support, we empower traders with funded accounts to confidently navigate the financial markets. Join a community where expertise meets opportunity, and together, let’s forge a path to lasting financial success
+>
+> — AquaFunded, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/aquafunded.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-25
+- Trustpilot: 2.1/5 (1195 reviews)
+- Activate: https://propfirmdiscount.com/go/aquafunded
+- Firm page: https://propfirmdiscount.com/prop-firm/aquafunded/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **25% off** on AquaFunded challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all AquaFunded evaluation accounts.
+## Current AquaFunded deal: 35% off all account sizes across CFD and Futures
+
+- Published: 2026-10-25
+- Offer ends: Limited time
+- Offer: 35% off
+- Scope: All Models, All Account Sizes, Cfd, Futures, 200% Refund On Cfd Only
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/
+
+## AquaFunded discount code FAQ
+
+**What is the AquaFunded discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 25% off AquaFunded challenges and accounts.
+
+**Does the AquaFunded discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current AquaFunded deal?**
+
+**35% off all account sizes across CFD and Futures** — published 2026-10-25. Offer ends: Limited time. The offer is 35% off.
 
 ---
 
-## Latest Deal
-
-### AquaFunded - 35% off all account sizes across CFD and Futures
-
-**Published:** 2026-10-25  
-**Offer ends:** Limited time  
-**Discount:** 35% off  
-**Scope:** All Models, All Account Sizes, Cfd, Futures, 200% Refund On Cfd Only  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **64**
 
@@ -129,19 +150,20 @@ Total deals tracked: **64**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **AquaFunded** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **AquaFunded** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/aquafunded/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/aquafunded/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
