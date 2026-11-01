@@ -53,7 +53,7 @@ Total deals tracked: **64**
 | 2026-10-25 | 35% off all account sizes across CFD and Futures | 35% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) |
 | 2026-10-21 | 25% Off Evaluations for Halloween, 200% Refund | 25% off | 2026-11-05 | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/) |
 | 2026-10-14 | 25% Off Challenge Pricing With 150% Delayed Refund | 25% off | 2026-10-23 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/) |
-| 2026-10-01 | 25% Off Challenge Pricing and 150% Refund on 4th Payout | 25% off | 2026-10-31 | — | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-sale-25-off-refund/) |
+| 2026-10-01 | 25% Off Challenge Pricing and 150% Refund on 4th Payout | 25% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-sale-25-off-refund/) |
 | 2026-09-11 | Autumn Promotion: 30% Off Upfront Evaluation Costs | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-promotion-30-off/) |
 | 2026-09-01 | 25% Off Challenge Pricing and 150% Refund: Offer Structure Explained | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-25-off-150-refund/) |
 | 2026-08-24 | 40% Off Evaluation Upfront Cost with 150% Refund and Bonus Account | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-40-off-150-refund-bogo/) |
