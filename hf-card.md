@@ -17,12 +17,12 @@ tags:
   - aquafunded
 ---
 
-# AquaFunded Discount Code
+# AquaFunded - Discount Codes & Deal History
 
-As of 2026-10-25, the verified AquaFunded discount code is PFD — up to 25% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-10-25, the verified AquaFunded discount code is PFD — up to 35% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 - Code: PFD
-- Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-25
 - Trustpilot: 2.1/5 (1199 reviews)
@@ -45,7 +45,7 @@ As of 2026-10-25, the verified AquaFunded discount code is PFD — up to 25% OFF
 
 **What is the AquaFunded discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 25% off AquaFunded challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 35% off AquaFunded challenges and accounts.
 
 **Does the AquaFunded discount code expire?**
 
