@@ -21,6 +21,10 @@ tags:
 
 As of 2026-10-25, the verified AquaFunded discount code is PFD — up to 35% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
+> At AquaFunded, we’re more than just a prop firm, we’re your partner in creating a successful trading future. Committed to transparency and steadfast support, we empower traders with funded accounts to confidently navigate the financial markets. Join a community where expertise meets opportunity, and together, let’s forge a path to lasting financial success
+>
+> — AquaFunded, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/aquafunded.com)
+
 - Code: PFD
 - Discount: Up to 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
