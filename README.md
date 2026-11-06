@@ -1,6 +1,6 @@
 # AquaFunded - Discount Codes & Deal History
 
-As of 2026-10-25, the verified AquaFunded discount code is PFD — up to 35% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11-06, the verified AquaFunded discount code is PFD — up to 35% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > At AquaFunded, we’re more than just a prop firm, we’re your partner in creating a successful trading future. Committed to transparency and steadfast support, we empower traders with funded accounts to confidently navigate the financial markets. Join a community where expertise meets opportunity, and together, let’s forge a path to lasting financial success
 >
@@ -9,22 +9,21 @@ As of 2026-10-25, the verified AquaFunded discount code is PFD — up to 35% OFF
 - Code: PFD
 - Discount: Up to 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-25
+- Last deal published: 2026-11-06
 - Trustpilot: 2/5 (1206 reviews)
 - Activate: https://propfirmdiscount.com/go/aquafunded
 - Firm page: https://propfirmdiscount.com/prop-firm/aquafunded/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current AquaFunded deal: 35% off all account sizes across CFD and Futures
+## Current AquaFunded deal: Honor Sale 25% Off + 150% Refund
 
-- Published: 2026-10-25
+- Published: 2026-11-06
 - Offer ends: Limited time
-- Offer: 35% off
-- Event: Halloween
-- Scope: All Models, All Account Sizes, Cfd, Futures, 200% Refund On Cfd Only
+- Offer: 25% off
+- Scope: Instant, One Step And Two Step Accounts, $2.5K To $400K; 150% Refund On Cfd Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/
+- Deal page: https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/
 
 ## AquaFunded discount code FAQ
 
@@ -38,18 +37,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current AquaFunded deal?**
 
-**35% off all account sizes across CFD and Futures** — published 2026-10-25. Offer ends: Limited time. The offer is 35% off.
+**Honor Sale 25% Off + 150% Refund** — published 2026-11-06. Offer ends: Limited time. The offer is 25% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **64**
+Total deals tracked: **65**
 
-### 2026 (30 deals)
+### 2026 (31 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-06 | Honor Sale 25% Off + 150% Refund | 25% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/) |
 | 2026-10-25 | 35% off all account sizes across CFD and Futures | 35% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) |
 | 2026-10-21 | 25% Off Evaluations for Halloween, 200% Refund | 25% off | 2026-11-05 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/) |
 | 2026-10-14 | 25% Off Challenge Pricing With 150% Delayed Refund | 25% off | 2026-10-23 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/) |
