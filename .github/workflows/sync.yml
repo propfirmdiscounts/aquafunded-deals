@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: aquafunded-discount-codes
+  HF_NAMESPACE: aquafunded
+  HF_REPO_NAME: aquafunded-deals
   FIRM_SLUG: aquafunded
   DEALSTORE_ID: 102
   FIRM_NAME: AquaFunded
