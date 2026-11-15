@@ -10,11 +10,12 @@ As of 2026-11, the verified AquaFunded discount code is PFD — 35% OFF, works a
 - Discount: 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-06
-- Trustpilot: 2/5 (1215 reviews)
-- Activate: https://propfirmdiscount.com/go/aquafunded
-- Firm page: https://propfirmdiscount.com/prop-firm/aquafunded/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [2/5 (1215 reviews)](https://www.trustpilot.com/review/aquafunded.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/aquafunded-deals](https://github.com/propfirmdiscounts/aquafunded-deals)
+- Activate: [https://propfirmdiscount.com/go/aquafunded](https://propfirmdiscount.com/go/aquafunded)
+- Firm page: [https://propfirmdiscount.com/prop-firm/aquafunded/](https://propfirmdiscount.com/prop-firm/aquafunded/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current AquaFunded deal: Honor Sale 25% Off + 150% Refund
 
@@ -23,7 +24,7 @@ As of 2026-11, the verified AquaFunded discount code is PFD — 35% OFF, works a
 - Offer: 25% off
 - Scope: Instant, One Step And Two Step Accounts, $2.5K To $400K; 150% Refund On Cfd Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/
+- Deal page: [https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/](https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/)
 
 ## AquaFunded discount code FAQ
 
@@ -136,9 +137,9 @@ Total deals tracked: **65**
 
 This repository mirrors every deal **AquaFunded** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/aquafunded/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/aquafunded/](https://propfirmdiscount.com/prop-firm/aquafunded/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/aquafunded-deals.json`
 
