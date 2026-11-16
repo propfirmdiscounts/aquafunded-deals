@@ -1,6 +1,6 @@
 # AquaFunded - Discount Codes & Deal History
 
-As of November 2026, the verified AquaFunded discount code is PFD — 35% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified AquaFunded discount code is PFD — 25% OFF, which can be applied on the checkout page anytime. The newest is "Honor Sale 25% Off + 150% Refund".
 
 > At AquaFunded, we’re more than just a prop firm, we’re your partner in creating a successful trading future. Committed to transparency and steadfast support, we empower traders with funded accounts to confidently navigate the financial markets. Join a community where expertise meets opportunity, and together, let’s forge a path to lasting financial success
 >
@@ -11,11 +11,11 @@ As of November 2026, the verified AquaFunded discount code is PFD — 35% OFF, w
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-06
 - Trustpilot: [2/5 (1215 reviews)](https://www.trustpilot.com/review/aquafunded.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/aquafunded-deals](https://github.com/propfirmdiscounts/aquafunded-deals)
-- Activate: [https://propfirmdiscount.com/go/aquafunded](https://propfirmdiscount.com/go/aquafunded)
-- Firm page: [https://propfirmdiscount.com/prop-firm/aquafunded/](https://propfirmdiscount.com/prop-firm/aquafunded/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [AquaFunded Deals Repository](https://github.com/propfirmdiscounts/aquafunded-deals)
+- Activate: [Activate AquaFunded Discount Code](https://propfirmdiscount.com/go/aquafunded)
+- Firm page: [AquaFunded Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/aquafunded/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [AquaFunded API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current AquaFunded deal: Honor Sale 25% Off + 150% Refund
 
@@ -24,7 +24,7 @@ As of November 2026, the verified AquaFunded discount code is PFD — 35% OFF, w
 - Offer: 25% off
 - Scope: Instant, One Step And Two Step Accounts, $2.5K To $400K; 150% Refund On Cfd Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/](https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/)
+- Deal page: [AquaFunded Deal Page](https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/)
 
 ## AquaFunded discount code FAQ
 
@@ -137,9 +137,9 @@ Total deals tracked: **65**
 
 This repository mirrors every deal **AquaFunded** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/aquafunded/](https://propfirmdiscount.com/prop-firm/aquafunded/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [AquaFunded Profile](https://propfirmdiscount.com/prop-firm/aquafunded/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/aquafunded-deals.json`
 
@@ -182,4 +182,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
