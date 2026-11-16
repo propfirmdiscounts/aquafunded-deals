@@ -1,6 +1,6 @@
-# AquaFunded - Discount Codes & Deal History
+# AquaFunded Discount Code & Deal History
 
-As of November 2026, the verified AquaFunded discount code is PFD — 25% OFF, which can be applied on the checkout page anytime. The newest is "Honor Sale 25% Off + 150% Refund".
+As of November 2026, the verified AquaFunded discount code is PFD — 35% OFF, which can be applied on the checkout page anytime. The newest is "Honor Sale 25% Off + 150% Refund".
 
 > At AquaFunded, we’re more than just a prop firm, we’re your partner in creating a successful trading future. Committed to transparency and steadfast support, we empower traders with funded accounts to confidently navigate the financial markets. Join a community where expertise meets opportunity, and together, let’s forge a path to lasting financial success
 >
@@ -8,7 +8,7 @@ As of November 2026, the verified AquaFunded discount code is PFD — 25% OFF, w
 
 - Code: PFD
 - Discount: 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-06
 - Trustpilot: [2/5 (1215 reviews)](https://www.trustpilot.com/review/aquafunded.com)
 - GitHub repository: [AquaFunded Deals Repository](https://github.com/propfirmdiscounts/aquafunded-deals)
@@ -17,7 +17,7 @@ As of November 2026, the verified AquaFunded discount code is PFD — 25% OFF, w
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [AquaFunded API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current AquaFunded deal: Honor Sale 25% Off + 150% Refund
+## Latest AquaFunded deal: Honor Sale 25% Off + 150% Refund
 
 - Published: 2026-11-06
 - Offer ends: Limited time
@@ -26,7 +26,7 @@ As of November 2026, the verified AquaFunded discount code is PFD — 25% OFF, w
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [AquaFunded Deal Page](https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/)
 
-## AquaFunded discount code FAQ
+## AquaFunded Discount Code & Deals FAQ
 
 **What is the AquaFunded discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## AquaFunded Deal History
 
 Total deals tracked: **65**
 
@@ -133,7 +133,7 @@ Total deals tracked: **65**
 
 ---
 
-## About this repository
+## About the AquaFunded Deals Dataset
 
 This repository mirrors every deal **AquaFunded** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -141,7 +141,7 @@ This repository mirrors every deal **AquaFunded** has published on PropFirmDisco
 - Prop firm profile: [AquaFunded Profile](https://propfirmdiscount.com/prop-firm/aquafunded/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/aquafunded-deals.json`
+## AquaFunded Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -173,13 +173,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
