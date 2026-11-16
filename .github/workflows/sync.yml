@@ -13,7 +13,7 @@ permissions:
 
 concurrency:
   group: sync
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 env:
   HF_NAMESPACE: aquafunded
