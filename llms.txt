@@ -1,4 +1,4 @@
-# AquaFunded Discount Codes
+# AquaFunded Discount Code & Deals History
 
 This dataset tracks historical deal observations for AquaFunded from PropFirmDiscount.com.
 
