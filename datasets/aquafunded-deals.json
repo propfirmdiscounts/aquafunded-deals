@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13273,
+    "title": "Black Friday 35% Off",
+    "offer_type": "coupon",
+    "discount_value": "35%",
+    "scope": [
+      "Every Account"
+    ],
+    "date_published": "2026-11-17",
+    "date_exp": "Limited time",
+    "event": "Black Friday",
+    "last_verified": "2026-11-17",
+    "post_url": "https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/",
+    "prop_firm": "AquaFunded",
+    "prop_firm_slug": "aquafunded",
+    "standing_code": "PFD",
+    "standing_discount": "35%",
+    "activation_link": "https://propfirmdiscount.com/go/aquafunded",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/aquafunded/"
+  },
+  {
     "deal_id": 13173,
     "title": "Honor Sale 25% Off + 150% Refund",
     "offer_type": "coupon",
