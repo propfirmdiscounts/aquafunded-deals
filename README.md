@@ -1,6 +1,6 @@
 # AquaFunded Discount Code, Deals History & Dataset
 
-As of November 2026, the verified AquaFunded discount code is PFD — 35% OFF, which can be applied on the checkout page anytime. The newest is "Black Friday 35% Off".
+As of November 2026, the verified AquaFunded discount code is PFD — 35% OFF, which can be applied on the checkout page anytime. The newest is "40% Off, 200% Fee Refund Terms".
 
 > At AquaFunded, we’re more than just a prop firm, we’re your partner in creating a successful trading future. Committed to transparency and steadfast support, we empower traders with funded accounts to confidently navigate the financial markets. Join a community where expertise meets opportunity, and together, let’s forge a path to lasting financial success
 >
@@ -17,15 +17,15 @@ As of November 2026, the verified AquaFunded discount code is PFD — 35% OFF, w
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [AquaFunded API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest AquaFunded deal: Black Friday 35% Off
+## Latest AquaFunded deal: 40% Off, 200% Fee Refund Terms
 
-- Published: 2026-11-17
+- Published: 2026-11-24
 - Offer ends: Limited time
-- Offer: 35% off
+- Offer: 40% off
 - Event: Black Friday
-- Scope: Every Account
+- Scope: Every Account; Refund On Cfd Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [AquaFunded Deal Page](https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/)
+- Deal page: [AquaFunded Deal Page](https://propfirmdiscount.com/deals/aquafunded/aquafunded-mega-sale-40-off-every-account/)
 
 ## AquaFunded Discount Code & Deals History FAQ
 
@@ -39,18 +39,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current AquaFunded deal?**
 
-**Black Friday 35% Off** — published 2026-11-17. Offer ends: Limited time. The offer is 35% off.
+**40% Off, 200% Fee Refund Terms** — published 2026-11-24. Offer ends: Limited time. The offer is 40% off.
 
 ---
 
 ## AquaFunded Deals History
 
-Total deals tracked: **66**
+Total deals tracked: **67**
 
-### 2026 (32 deals)
+### 2026 (33 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-24 | AquaFunded: 40% Off, 200% Fee Refund Terms | 40% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-mega-sale-40-off-every-account/) |
 | 2026-11-17 | AquaFunded: Black Friday 35% Off | 35% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/) |
 | 2026-11-06 | AquaFunded: Honor Sale 25% Off + 150% Refund | 25% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/) |
 | 2026-10-25 | AquaFunded: 35% off all account sizes across CFD and Futures | 35% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) |
