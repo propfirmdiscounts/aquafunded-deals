@@ -54,7 +54,7 @@ Total deals tracked: **67**
 | 2026-11-24 | AquaFunded: 40% Off, 200% Fee Refund Terms | 40% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-mega-sale-40-off-every-account/) |
 | 2026-11-17 | AquaFunded: Black Friday 35% Off | 35% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/) |
 | 2026-11-06 | AquaFunded: Honor Sale 25% Off + 150% Refund | 25% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/) |
-| 2026-10-25 | AquaFunded: 35% off all account sizes across CFD and Futures | 35% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) |
+| 2026-10-25 | AquaFunded: 35% off all account sizes across CFD and Futures | 35% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) |
 | 2026-10-21 | AquaFunded: 25% Off Evaluations for Halloween, 200% Refund | 25% off | 2026-11-05 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/) |
 | 2026-10-14 | AquaFunded: 25% Off Challenge Pricing With 150% Delayed Refund | 25% off | 2026-10-23 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/) |
 | 2026-10-01 | AquaFunded: 25% Off Challenge Pricing and 150% Refund on 4th Payout | 25% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-sale-25-off-refund/) |
